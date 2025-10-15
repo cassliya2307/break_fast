@@ -1,9 +1,9 @@
-position = 0
+position = " "
+
 string = "japan"
 
 for letters in string:
-	if letters == "e" and letters == "a" and letters == "i" and letters == "o" and letters == "u":
-		position += 1
-		
+	print(letters)
+			
 
-print(position)
+	print(position)
